@@ -3,6 +3,11 @@
 
 ---
 
+### 💡 About Me
+I am a passionate AI/ML Engineer with experience in building intelligent systems using Deep Learning, Natural Language Processing, and MLOps. I love creating AI solutions that solve real-world problems and exploring the latest advancements in Generative AI and AI Agents. I enjoy coding, experimenting with new tools, and continuously learning to improve my skills.
+
+---
+
 ### 🛠 Skills & Tools
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -12,6 +17,11 @@
   <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
   <a href="https://www.langchain.com/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="langchain" width="40" height="40"/></a>
   <a href="https://www.crewai.com/" target="_blank"><img src="https://raw.githubusercontent.com/crewai/logo/main/crewai-icon.png" alt="crewai" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github-actions" width="40" height="40"/></a>
+  <a href="https://dvc.org/" target="_blank"><img src="https://dvc.org/static/img/dvc.svg" alt="dvc" width="40" height="40"/></a>
+  <a href="https://dagshub.com/" target="_blank"><img src="https://dagshub.com/assets/img/logos/dagshub-logo-color.svg" alt="dagshub" width="40" height="40"/></a>
+  <a href="https://mlflow.org/" target="_blank"><img src="https://mlflow.org/docs/latest/_static/mlflow-logo-final.png" alt="mlflow" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </p>
@@ -25,17 +35,9 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🎯 Hobbies & Interests
 - Traveling ✈️
-- Football ⚽
+- Singing 🎤
 - Exploring AI/ML Projects 💻
 
 ---
