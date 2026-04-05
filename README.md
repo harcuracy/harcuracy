@@ -1,5 +1,4 @@
-html
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Akande Soji 😀</h1>
 <h4 align="center">I'm an AI/ML Engineer</h4>
 
@@ -37,9 +36,10 @@ html
 </p>
 
 ### My Hobbies and Interests:
-* Traveling
-* Singing
+* Gaming 
+* Football 
 * Coding
+* Problem Solving 
 
 #### You can also find me on:
 
@@ -61,9 +61,7 @@ html
 </p>
 -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harcuracy &show_icons=true&locale=en" alt="Akande Soji" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harcuracy " alt="Akande Soji" /></p>
 
 
 
