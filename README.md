@@ -83,13 +83,13 @@ Repository: [Mlops-Production-Ready-Deep-Learning-Project](https://github.com/ha
 
 Tech: `TensorFlow` `Keras` `DVC` `MLflow` `Flask` `Docker` `Jenkins` `AWS`
 
-### End-to-End Medical Chatbot Using LLM
+### End-to-End Machine Learning MLOps Implementation
 
-LLM-powered medical chatbot project focused on natural language interaction and applied AI system design.
+Production-style machine learning implementation project focused on building a complete ML workflow from data ingestion and preprocessing to model training, evaluation, packaging, and deployment readiness.
 
-Repository: [End_To_End_Medical_Chatbot_Using_LLM](https://github.com/harcuracy/End_To_End_Medical_Chatbot_Using_LLM)
+Repository: [Mlops_End_To_End_Project_Of_Machine_Learning_implementation-](https://github.com/harcuracy/Mlops_End_To_End_Project_Of_Machine_Learning_implementation-)
 
-Tech: `Python` `LLM` `NLP` `LangChain`
+Tech: `Python` `Machine Learning` `MLOps` `Pipeline` `Model Training` `Deployment`
 
 ### CV Extractor
 
