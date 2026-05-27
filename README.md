@@ -89,7 +89,7 @@ Production-style machine learning implementation project focused on building a c
 
 Repository: [Mlops_End_To_End_Project_Of_Machine_Learning_implementation-](https://github.com/harcuracy/Mlops_End_To_End_Project_Of_Machine_Learning_implementation-)
 
-Tech: `Python` `Machine Learning` `MLOps` `Pipeline` `Model Training` `Deployment`
+Tech: `Python` `scikit-learn` `Pandas` `NumPy` `imbalanced-learn` `XGBoost` `CatBoost` `MongoDB` `PyYAML` `python-box` `Joblib` `MLflow` `DagsHub` `DVC` `Evidently` `FastAPI` `Uvicorn` `Docker` `GitHub Actions` `Pytest` `Jupyter`
 
 ### CV Extractor
 
