@@ -93,7 +93,7 @@ Tech: `Python` `NLP` `Automation`
 
 Computer vision project for detecting plant disease patterns from images.
 
-Repository: [plant_disease_detection_model](https://github.com/harcuracy/plant_disease_detection_model)
+Repository: [plant_disease_detection_model](https://github.com/harcuracy/Plant_Disease_Detection_Model_MLOPs)
 
 Tech: `Python` `Deep Learning` `Computer Vision`
 
