@@ -65,6 +65,16 @@ Currently focused on:
 
 ## Featured Projects
 
+### Plant Disease Detection Model MLOps
+
+End-to-end computer vision and MLOps project for detecting plant leaf diseases from images. The project includes Kaggle data ingestion, balanced dataset preparation, MobileNetV2 transfer learning, TensorFlow/Keras training, DVC pipeline tracking, FastAPI inference, Docker packaging, and GitHub Actions CI/CD to AWS ECR.
+
+Current validation performance: `84.61% accuracy` with validation loss of `0.555`.
+
+Repository: [Plant_Disease_Detection_Model_MLOPs](https://github.com/harcuracy/Plant_Disease_Detection_Model_MLOPs)
+
+Tech: `Python` `TensorFlow` `Keras` `MobileNetV2` `DVC` `FastAPI` `Docker` `GitHub Actions` `AWS ECR` `uv`
+
 ### Production-Ready Lung Disease Classification with MLOps
 
 End-to-end deep learning project for classifying lung CT images using ResNet50 transfer learning. Includes DVC pipeline stages, TensorFlow/Keras training, MLflow/DagsHub experiment tracking, Flask inference API, Docker, Jenkins, AWS EC2, and Amazon ECR deployment workflow.
@@ -89,14 +99,6 @@ Repository: [CV_EXTRACTOR](https://github.com/harcuracy/CV_EXTRACTOR)
 
 Tech: `Python` `NLP` `Automation`
 
-### Plant Disease Detection Model
-
-Computer vision project for detecting plant disease patterns from images.
-
-Repository: [plant_disease_detection_model](https://github.com/harcuracy/Plant_Disease_Detection_Model_MLOPs)
-
-Tech: `Python` `Deep Learning` `Computer Vision`
-
 ---
 
 ## GitHub Activity
@@ -115,7 +117,7 @@ Tech: `Python` `Deep Learning` `Computer Vision`
 
 - Ability to build ML projects beyond notebooks and package them as usable applications
 - Practical understanding of model training, evaluation, experiment tracking, and deployment
-- Hands-on experience with Docker, AWS, Jenkins, DVC, MLflow, and Flask APIs
+- Hands-on experience with Docker, AWS, Jenkins, DVC, MLflow, FastAPI, and Flask APIs
 - Strong interest in AI systems that solve real-world business and social problems
 - Continuous learning mindset and a growing portfolio across MLOps, NLP, LLMs, and computer vision
 
